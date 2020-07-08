@@ -1,6 +1,0 @@
-kind: HelmRequest
-apiVersion: app.alauda.io/v1alpha1
-metadata:
-  name: nginx-ingress
-spec:
-  chart: stable/nginx-ingress
